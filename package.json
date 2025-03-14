@@ -3,7 +3,7 @@
   "name": "pinia-docs",
   "title": "Pinia Docs",
   "description": "Search through the Pinia docs directly from Raycast",
-  "icon": "extension-icon.png",
+  "icon": "p-logo.png",
   "author": "jeffnawroth",
   "categories": [
     "Documentation",
@@ -16,6 +16,7 @@
       "title": "Search Documentation",
       "subtitle": "Pinia Docs",
       "description": "Search the Pinia documentation and open it in the browser",
+      "icon": "p-logo.png",
       "mode": "view"
     },
     {
@@ -23,6 +24,7 @@
       "title": "Open Pinia Docs",
       "subtitle": "Pinia Docs",
       "description": "Opens the homepage of the Pinia documentation",
+      "icon": "p-logo.png",
       "mode": "no-view"
     }
   ],

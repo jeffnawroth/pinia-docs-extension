@@ -22,7 +22,6 @@ export default function Command() {
     return sections?.filter((section) => section.title === state.filter) ?? [];
   })();
 
-
   return (
     <List
       searchText={state.searchText}

@@ -18,14 +18,6 @@
       "description": "Search the Pinia documentation and open it in the browser",
       "icon": "p-logo.png",
       "mode": "view"
-    },
-    {
-      "name": "open-pinia-docs",
-      "title": "Open Pinia Docs",
-      "subtitle": "Pinia Docs",
-      "description": "Opens the homepage of the Pinia documentation",
-      "icon": "p-logo.png",
-      "mode": "no-view"
     }
   ],
   "dependencies": {
